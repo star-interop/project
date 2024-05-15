@@ -1,0 +1,12 @@
+{
+    "name": "star-interop/project",
+    "description": "The main Star-Interop project.",
+    "type": "metapackage",
+    "authors": [
+        {
+            "name": "Paul M. Jones",
+            "email": "pmjones@pmjones.io"
+        }
+    ],
+    "require": {}
+}
